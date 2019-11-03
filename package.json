@@ -20,6 +20,7 @@
     "typescript": "^3.6.4"
   },
   "scripts": {
+    "start": "tsc -b -w -v",
     "build": "tsc -b -v",
     "clean": "tsc -b --clean"
   },
